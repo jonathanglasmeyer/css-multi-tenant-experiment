@@ -1,0 +1,4 @@
+.foo {
+  background: var(--secondaryColor);
+  color: var(--primaryColor);
+}

@@ -1,0 +1,5 @@
+:root {
+  --buttonPrimaryBackgroundColor: __ style('Button.primary.backgroundColor') __;
+  --primaryColor: __ style('primaryColor') __;
+  /*__ ["--secondaryColor:", "blue;"].join(' ') __*/
+}
